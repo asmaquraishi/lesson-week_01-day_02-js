@@ -1,0 +1,27 @@
+The Fortune Teller///
+
+var children = 3;
+undefined
+var partner = "Sara";
+undefined
+var address = "Riyadh";
+undefined
+var job = "Web Developer";
+console.log("You will be a " + job + " in" + address + " and married to" + partner + " with" + children + " kids .");
+///
+
+The Age Calculator///
+
+var currentYear = "2019";
+undefined
+var birthYear = "1996";
+undefined
+var age = currentYear - birthYear;
+undefined
+
+console.log('They are either' + age + ' or ' + (age - 1));
+
+ They are either23 or 22
+ //////
+
+ 
